@@ -1,1 +1,1 @@
-# [Image of Bitmoji me] (IMG_3397.PNG)
+(![Image of Bitmoji me] (IMG_3397.PNG))
